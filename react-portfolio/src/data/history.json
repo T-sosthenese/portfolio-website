@@ -1,0 +1,29 @@
+[
+    {
+      "role": "AI Hackathon",
+      "organisation": "ALX Software Engineering",
+      "startDate": "November, 2023",
+      "endDate": "Decemer, 2023",
+      "experiences": ["Worked on a business plan generator", "Consumed OpenAI API", "Deployed application on pythonanywhere"],
+      "imageSrc": "history/openai.png"
+    },
+    {
+      "role": "Backend development",
+      "organisation": "ALX Software Engineering",
+      "startDate": "Dec, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": ["Created a job platform using Python and Django", "Used MySQL to store site information"],
+      "imageSrc": "history/job.png"
+    },
+    {
+      "role": "Fullstack development",
+      "organisation": "ALX Software Engineering",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Worked on an online ticketing system",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/ticket.png"
+    }
+  ]

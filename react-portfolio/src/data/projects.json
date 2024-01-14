@@ -1,0 +1,41 @@
+[
+    {
+        "title": "BizPlan",
+        "imageSrc": "projects/bizplan.png",
+        "description": "Used OpenAI API to generate custom business plan. I learned to leverage the power of AI.",
+        "skills": [
+            "Python",
+            "Django",
+            "Bootstrap",
+            "MySQL"
+        ],
+        "demo": "https://reginah.pythonanywhere.com/",
+        "source": "https://github.com/reggyshicky/Business-Plan-Generator"
+    },
+    {
+        "title": "jsphere",
+        "imageSrc": "projects/jsphere.png",
+        "description": "Learned more about backend development using Python and Django",
+        "skills": [
+            "Python",
+            "Django",
+            "Bootstrap",
+            "MySQL"
+        ],
+        "demo": "https://github.com/T-sosthenese/jsphere",
+        "source": "https://github.com/T-sosthenese/jsphere"
+    },
+    {
+        "title": "iticket",
+        "imageSrc": "projects/iticket.png",
+        "description": "Learned more about backend development using Python and Django",
+        "skills": [
+            "Python",
+            "Django",
+            "Bootstrap",
+            "MySQL"
+        ],
+        "demo": "https://github.com/T-sosthenese/iticket",
+        "source": "https://github.com/T-sosthenese/iticket"
+    }
+]
