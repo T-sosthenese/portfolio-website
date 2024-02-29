@@ -1,29 +1,52 @@
 [
-    {
-      "role": "AI Hackathon",
-      "organisation": "ALX Software Engineering",
-      "startDate": "November, 2023",
-      "endDate": "Decemer, 2023",
-      "experiences": ["Worked on a business plan generator", "Consumed OpenAI API", "Deployed application on pythonanywhere"],
-      "imageSrc": "history/openai.png"
-    },
-    {
-      "role": "Backend development",
-      "organisation": "ALX Software Engineering",
-      "startDate": "Dec, 2023",
-      "endDate": "Dec, 2023",
-      "experiences": ["Created a job platform using Python and Django", "Used MySQL to store site information"],
-      "imageSrc": "history/job.png"
-    },
-    {
-      "role": "Fullstack development",
-      "organisation": "ALX Software Engineering",
-      "startDate": "Jan, 2024",
-      "endDate": "Present",
-      "experiences": [
-        "Worked on an online ticketing system",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/ticket.png"
-    }
-  ]
+  {
+    "role": "Fullstack development",
+    "organisation": "ALX Software Engineering",
+    "startDate": "February 1, 2024",
+    "endDate": "February 29, 2024",
+    "experiences": [
+      "Developed Comfort Crib, a hotel booking system allowing users to book accommodations based on destination",
+      "Utilized RESTful APIs for user registration, login, and hotel booking functionalities",
+      "Created responsive frontend using React, TypeScript, Tailwind CSS, and HTML",
+      "Engineered dynamic backend with MongoDB and Node.js",
+      "Hosted database on MongoDB Atlas for reliability and scalability",
+      "Integrated payment system using Stripe.com's developer package",
+      "Deployed application on render.com for high availability"
+    ],
+    "imageSrc": "history/comfortcrib.png"
+  },
+  {
+    "role": "AI Hackathon",
+    "organisation": "ALX Software Engineering",
+    "startDate": "November, 2023",
+    "endDate": "Decemer, 2023",
+    "experiences": [
+      "Worked on a business plan generator",
+      "Consumed OpenAI API",
+      "Deployed application on pythonanywhere"
+    ],
+    "imageSrc": "history/openai.png"
+  },
+  {
+    "role": "Backend development",
+    "organisation": "ALX Software Engineering",
+    "startDate": "Dec, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Created a job platform using Python and Django",
+      "Used MySQL to store site information"
+    ],
+    "imageSrc": "history/job.png"
+  },
+  {
+    "role": "Fullstack development",
+    "organisation": "ALX Software Engineering",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on an online ticketing system",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/ticket.png"
+  }
+]

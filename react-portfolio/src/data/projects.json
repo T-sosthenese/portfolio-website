@@ -1,41 +1,34 @@
 [
-    {
-        "title": "BizPlan",
-        "imageSrc": "projects/bizplan.png",
-        "description": "Used OpenAI API to generate custom business plan. I learned to leverage the power of AI.",
-        "skills": [
-            "Python",
-            "Django",
-            "Bootstrap",
-            "MySQL"
-        ],
-        "demo": "https://reginah.pythonanywhere.com/",
-        "source": "https://github.com/reggyshicky/Business-Plan-Generator"
-    },
-    {
-        "title": "jsphere",
-        "imageSrc": "projects/jsphere.png",
-        "description": "Learned more about backend development using Python and Django",
-        "skills": [
-            "Python",
-            "Django",
-            "Bootstrap",
-            "MySQL"
-        ],
-        "demo": "https://github.com/T-sosthenese/jsphere",
-        "source": "https://github.com/T-sosthenese/jsphere"
-    },
-    {
-        "title": "iticket",
-        "imageSrc": "projects/iticket.png",
-        "description": "Learned more about backend development using Python and Django",
-        "skills": [
-            "Python",
-            "Django",
-            "Bootstrap",
-            "MySQL"
-        ],
-        "demo": "https://github.com/T-sosthenese/iticket",
-        "source": "https://github.com/T-sosthenese/iticket"
-    }
+  {
+    "title": "Comfort Crib",
+    "imageSrc": "projects/comfortcrib.png",
+    "description": "Developed Comfort Crib, a hotel booking system allowing users to book accommodations based on destination, demonstrating proficiency in full-stack development",
+    "skills": ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
+    "demo": "https://hotel-booking-app-qlg0.onrender.com/",
+    "source": "https://github.com/T-sosthenese/hotel-booking-app"
+  },
+  {
+    "title": "BizPlan",
+    "imageSrc": "projects/bizplan.png",
+    "description": "Used OpenAI API to generate custom business plan. I learned to leverage the power of AI.",
+    "skills": ["Python", "Django", "Bootstrap", "MySQL"],
+    "demo": "https://reginah.pythonanywhere.com/",
+    "source": "https://github.com/reggyshicky/Business-Plan-Generator"
+  },
+  {
+    "title": "jsphere",
+    "imageSrc": "projects/jsphere.png",
+    "description": "Learned more about backend development using Python and Django",
+    "skills": ["Python", "Django", "Bootstrap", "MySQL"],
+    "demo": "https://github.com/T-sosthenese/jsphere",
+    "source": "https://github.com/T-sosthenese/jsphere"
+  },
+  {
+    "title": "iticket",
+    "imageSrc": "projects/iticket.png",
+    "description": "Learned more about backend development using Python and Django",
+    "skills": ["Python", "Django", "Bootstrap", "MySQL"],
+    "demo": "https://github.com/T-sosthenese/iticket",
+    "source": "https://github.com/T-sosthenese/iticket"
+  }
 ]
